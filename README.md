@@ -26,6 +26,6 @@ Things that you can interact with, see the code, see the specs/tests and evaluat
 Each question will be tagged with the level you think is appropriate.
 
 ## Contributing
-As you can see, this project is only a README file, the README file will be the questions of the exam.
+As you can see, this project is only a README file, and Markdown files for each question category.
 
-We'll try to have several level of questions.
+Simply fork the project, add your questions/tasks and issue a pull request.
