@@ -12,11 +12,16 @@ I have seen engineers fail misserably in those kind of testing, engineers that I
 ## Take home / Bring your own computer exam
 This exam is meant to be a take-home or bring your own computer.
 
-The logic behind this is that a user is used to everything he/she has on the computer so no need to block them with an unfamiliar environment.
+The logic behind this is that a user is used to everything he/she has on the computer so no need  to block them with an unfamiliar environment.
 
-### Example
-* [Advanced] Create a permission system where a user can/cannot do something without using any gems
-* [Beginner] Create a form that will update the user details without using a scaffold
+## Concept
+The concept is to actually build something, not asking theoretical questions like "How controllers work", it's asking people to build things
+
+Things that you can interact with, see the code, see the specs/tests and evaluate the developer MUCH better.
+
+## Sample questions/tasks
+* Create a permission system where a user can/cannot do something without using any gems. (advanced.md)
+* Create a form that will update the user details without using a scaffold. (beginner.md)
 
 Each question will be tagged with the level you think is appropriate.
 
@@ -24,4 +29,3 @@ Each question will be tagged with the level you think is appropriate.
 As you can see, this project is only a README file, the README file will be the questions of the exam.
 
 We'll try to have several level of questions.
-
