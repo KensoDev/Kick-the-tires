@@ -23,12 +23,19 @@ Things that you can interact with, see the code, see the specs/tests and evaluat
 * Create a permission system where a user can/cannot do something without using any gems. (advanced.md)
 * Create a form that will update the user details without using a scaffold. (beginner.md)
 
+### Question files
+* **beginner.md**: used for questions in beginner level, those question can include such that will show the developer ability to learn, this file can test developer that don't know rails but testing their ability to learn it by doing something
+* **intermediate.md**: More advanced questions, usually for those that already know rails and you want to test more advanced stuff like test coverage perhaps.
+* **expert.md**: Want to hire the next speaker at RubyConf? kidding… expert level questions, show rails loopholes, more adnaved knowledge of the Ruby language etc..
+
 Each question will be tagged with the level you think is appropriate.
 
 ## Contributing
 As you can see, this project is only a README file, and Markdown files for each question category.
 
 Simply fork the project, add your questions/tasks and issue a pull request.
+
+Feel free to conrtibute to this README as well, it's far from being perfect and I would love to see your thoughts.
 
 ### Sample app
 The repo has a sample app.
