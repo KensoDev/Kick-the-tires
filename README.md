@@ -17,7 +17,7 @@ This exam is meant to be a take-home or bring your own computer.
 The logic behind this is that a user is used to everything he/she has on the computer so no need  to block them with an unfamiliar environment.
 
 ## Concept
-The concept is to actually build something, not asking theoretical questions like "How controllers work", it's asking people to build things
+The concept is to actually build something, not asking theoretical questions like "How controllers work", it's asking people to build things and see how they work, think, learn and solve problems.
 
 Things that you can interact with, see the code, see the specs/tests and evaluate the developer MUCH better.
 
@@ -26,9 +26,9 @@ Things that you can interact with, see the code, see the specs/tests and evaluat
 * Create a form that will update the user details without using a scaffold. (beginner.md)
 
 ### Question files
-* **beginner.md**: used for questions in beginner level, those question can include such that will show the developer ability to learn, this file can test developer that don't know rails but testing their ability to learn it by doing something
-* **intermediate.md**: More advanced questions, usually for those that already know rails and you want to test more advanced stuff like test coverage perhaps.
-* **expert.md**: Want to hire the next speaker at RubyConf? kidding… expert level questions, show rails loopholes, more adnaved knowledge of the Ruby language etc..
+* **beginner.md**: used for questions in beginner level, those question can include such that will show the developer ability to learn, this file can test a developer that doesn't know Rails but testing their ability to learn it by doing something
+* **intermediate.md**: More advanced questions, usually for those that already know Rails and you want to test more advanced stuff like test coverage perhaps.
+* **expert.md**: Want to hire the next speaker at RubyConf? kidding… expert level questions, show Rails loopholes, more advanced knowledge of the Ruby language etc..
 
 Each question will be tagged with the level you think is appropriate.
 
@@ -42,7 +42,7 @@ Feel free to conrtibute to this README as well, it's far from being perfect and 
 ### Sample app
 The repo has a sample app.
 
-The sample app will be used for the answers or to emphasize how you would like you code done.
+The sample app will be used for the answers or to emphasize how you would like your code done.
 
 Also, it could be used to write failing specs and have the dev pass them.
 
