@@ -29,3 +29,12 @@ Each question will be tagged with the level you think is appropriate.
 As you can see, this project is only a README file, and Markdown files for each question category.
 
 Simply fork the project, add your questions/tasks and issue a pull request.
+
+### Sample app
+The repo has a sample app.
+
+The sample app will be used for the answers or to emphasize how you would like you code done.
+
+Also, it could be used to write failing specs and have the dev pass them.
+
+Open to discussions on that as well.
