@@ -9,6 +9,8 @@ It's too much pressure, and in your day to day work you have a computer, a keybo
 
 I have seen engineers fail misserably in those kind of testing, engineers that I can honestly say I will hire anyday.
 
+Inspiration for the project name comes from [here](http://gettingreal.37signals.com/ch08_Kick_the_Tires.php)
+
 ## Take home / Bring your own computer exam
 This exam is meant to be a take-home or bring your own computer.
 
