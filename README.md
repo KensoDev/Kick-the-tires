@@ -1,7 +1,7 @@
 # Kicking the tires
 
 ## Overview
-Kicking the tires is meant to be an open source test/exam for Ruby/Rails developers.
+Kicking the tires is meant to be an open source (community project) test/exam for Ruby/Rails developers.
 
 The idea came after many discussions and from the deep understanding that testing a developer/engineer on a whiteboard or with pen & paper simply doesn't work.
 
