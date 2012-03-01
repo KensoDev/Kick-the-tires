@@ -4,7 +4,7 @@
   **You will have to realize by yourself what commands to run**.
 
   1. Create a new rails app called "my-store"
-  2. Create a model called "Products" with the following fields:
+  2. Create a "Product" scaffold with the following fields:
     - Name (text)
     - Price (integer)
     - Quantity (integer)
@@ -15,7 +15,7 @@
     - Name should be unique
     - Price can only be a positive number
     - Quanitity can be bigger then 5
-  6. Create the Category model with the following fields:
+  6. Create the "Category" scaffold with the following fields:
     - Name (text)
   7. Run a migration to create the tables for your database
   8. Create the rigth association between the Products model and the Category model with the followin rules:
