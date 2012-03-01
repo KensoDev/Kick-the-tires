@@ -17,4 +17,4 @@
   8. Create the rigth association between the Products model and the Category model with the followin rules:
     - A Category can have many Products
     - A Product belongs to only one Category
-  9. 
+  9. Run your app and create some Categories.
