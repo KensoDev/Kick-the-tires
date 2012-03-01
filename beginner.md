@@ -1,4 +1,7 @@
 # Beginners Exam:
+  The following question will require you to run some basic rails commands in the command line.
+  You will have to realize by yourself what commands to run.
+
   1. Create a new rails app called "my-store"
   2. Create a model called "Products" with the following fields:
     - Name (text)
