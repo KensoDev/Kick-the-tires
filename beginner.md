@@ -14,7 +14,7 @@
   5. Add the following validations to the Product model:
     - Name should be unique
     - Price can only be a positive number
-    - Quanitity can be bigger then 5
+    - Quanitity can't be bigger then 5
   6. Create the "Category" scaffold with the following fields:
     - Name (text)
   7. Run a migration to create the tables for your database
