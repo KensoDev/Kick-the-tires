@@ -18,3 +18,7 @@
     - A Category can have many Products
     - A Product belongs to only one Category
   9. Run your app and create some Categories.
+  10. Change your routes.rb file to make the root target the Products page.
+
+
+#### Good Luck!
