@@ -1,6 +1,6 @@
 # Beginners Exam:
 
-  The following questions will require you to run some basic rails commands in the command line.
+  The following questions will require you to run some basic rails commands in the command line.  
   **You will have to realize by yourself what commands to run**.
 
   1. Create a new rails app called "my-store"
